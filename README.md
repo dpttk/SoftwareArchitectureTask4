@@ -9,3 +9,10 @@
     Install the the opencv `pip install opencv-python numpy`
 3. Run the Application
 From the command prompt, run `python main.py`
+
+### Team members:
+- Mikhail Dudinov (`m.dudinov@innopolis.university`)
+- Ivan Platonov (`i.platonov@innopolis.university`)
+- Nikita Ruchkin (`n.ruchkin@innopolis.university`)
+- Georgii Butakov (`g.butakov@innopolis.university`)
+- Artyom Shaposhnikov (`a.shaposhnikov@innopolis.university`)
